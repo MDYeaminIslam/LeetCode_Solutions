@@ -1,4 +1,6 @@
-#accepted solution from leetcode
+#accepted solution from leetcode 
+#Difficulty: Easy
+#Time Complexity: O(n) | Space Complexity: O(n)
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         numToIndex = {}
